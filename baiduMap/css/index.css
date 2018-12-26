@@ -1,0 +1,28 @@
+html{height:100%}  
+body{height:100%;margin:0px;padding:0px}  
+  #container{
+    vertical-align: top;
+	height:100%
+	}
+  .disBlock{
+	  display: inline-block;
+  }
+  .left{
+	  margin: 20px 20px 0 0;
+	  width: calc(100% - 120px);
+  }
+  .right{
+	  margin-top: 20px;
+	  width: 90px;
+  }
+  .mt20{
+	  margin-top: 20px;
+  }
+  .userMessage{
+	  position: absolute;
+	  right:0;
+	  top:0;
+	  cursor: pointer;
+	  text-decoration: none;
+	  }
+	  

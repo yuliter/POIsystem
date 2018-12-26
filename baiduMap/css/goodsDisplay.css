@@ -1,0 +1,18 @@
+.getIntoIndex{
+	position: absolute;
+	top: 0;
+	right: 0;
+	text-decoration: none;
+}
+ul{
+	list-style: none;
+}
+ul li{
+	display: inline-block;
+}
+.disBlock{
+	display: inline-block;
+}
+.shopBox{
+	vertical-align: top;
+}
